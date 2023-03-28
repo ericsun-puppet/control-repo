@@ -8,6 +8,7 @@ mod 'puppetlabs-puppet_agent', '4.12.1'
 mod 'puppetlabs-exec', '2.2.0'
 mod 'puppetlabs-stdlib', '8.5.0'
 mod 'puppetlabs-inifile', '5.4.0'
+mod 'puppetlabs-servicenow_reporting_integration', '1.0.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
