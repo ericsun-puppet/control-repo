@@ -4,7 +4,7 @@ forge 'https://forge.puppet.com'
 # Versions should be updated to be the latest at the time you start
 
 #mod 'puppetlabs/concat',  '7.0.1'
-mod 'puppetlabs-puppet_agent', '4.12.1'
+mod 'puppetlabs-puppet_agent', '4.14.0'
 mod 'puppetlabs-exec', '2.2.0'
 mod 'puppetlabs-stdlib', '8.5.0'
 mod 'puppetlabs-inifile', '5.4.0'
