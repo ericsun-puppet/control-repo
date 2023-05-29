@@ -10,6 +10,7 @@ mod 'puppetlabs-stdlib', '8.5.0'
 mod 'puppetlabs-inifile', '5.4.0'
 mod 'puppetlabs-ruby_task_helper', '0.6.1'
 mod 'puppetlabs-servicenow_reporting_integration', '1.0.0'
+mod 'benjaminrobertson-update_trusted_facts', '0.2.0'
 
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
