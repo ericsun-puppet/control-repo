@@ -1,4 +1,4 @@
 ---
 message: "This node is using common data"
 
-pe_status_check::agent_status_enable::agent_status_enabled = true
+pe_status_check::agent_status_enable::agent_status_enabled: true
